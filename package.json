@@ -1,0 +1,19 @@
+{
+  "name": "test-npm-tag",
+  "version": "1.0.0",
+  "description": "test the npm tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaiVaibhav/test-npm-tag.git"
+  },
+  "author": "RaiVaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaiVaibhav/test-npm-tag/issues"
+  },
+  "homepage": "https://github.com/RaiVaibhav/test-npm-tag#readme"
+}
